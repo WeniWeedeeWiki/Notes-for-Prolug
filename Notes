@@ -1,0 +1,11 @@
+// COMMAND TO CHECK WHAT VERSION OF LINUX WE'RE ON
+    cat /etc/*release  note there is a space after cat.
+
+//COMMAND TO CHECK WHAT KERNAL VERSION IS RUNNING
+    uname -r
+
+//COMMAND TO SYSYTEM HAS BEEN UP AND RUNNING
+    uptime
+
+// HOW THE SYSTEM BOOTED AND WHAT KERNAL PARAMETERS WERE PASSED
+    cat /proc/cmdline
